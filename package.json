@@ -1,0 +1,14 @@
+{
+  "name": "niezesrajsie.tk-app",
+  "version": "1.0.9",
+  "description": "a app for niezesrajsie.tk",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "M4kulatura",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "electron": "^11.3.0"
+  }
+}
