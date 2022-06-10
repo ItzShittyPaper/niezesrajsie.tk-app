@@ -36,5 +36,5 @@ app.on('ready', _ => {
     const menu = Menu.buildFromTemplate (template) // sets the menu
     Menu.setApplicationMenu (menu)
 
-    win.loadURL('https://www.niezesrajsie.tk')    // loads this URL
+    win.loadURL('https://www.zesrajsie.tk')    // loads this URL
 })
